@@ -43,6 +43,8 @@ https://github.com/enstest1/arc-agentpay
 
 Explorer: https://explorer.arc.io/address/0x708A2F51e5cCA86dAeE2318A05E961F552d6E408
 
+Deployment transaction: https://explorer.arc.io/tx/0x5378e274c3c501a5e3a790fa85463b7abb31ce7babb1ce197f03fe3cee3211e8
+
 ## Builder
 Christopher Tomich / pelpa
 
