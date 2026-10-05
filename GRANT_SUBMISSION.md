@@ -36,10 +36,12 @@ Arc is purpose-built for real-time money movement and agentic economic activity.
 https://arc-agentpay.up.railway.app
 
 ## Public repository
-TO ADD AFTER PUBLIC GITHUB REPOSITORY IS CREATED
+https://github.com/enstest1/arc-agentpay
 
 ## Mainnet contract
-TO ADD AFTER WALLET-SIGNED DEPLOYMENT
+0x708A2F51e5cCA86dAeE2318A05E961F552d6E408
+
+Explorer: https://explorer.arc.io/address/0x708A2F51e5cCA86dAeE2318A05E961F552d6E408
 
 ## Builder
 Christopher Tomich / pelpa

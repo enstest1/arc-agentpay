@@ -78,8 +78,10 @@ npm run contract:deploy:testnet
 Then set the deployed address:
 
 ```env
-NEXT_PUBLIC_AGENTPAY_CONTRACT=0x...
+NEXT_PUBLIC_AGENTPAY_CONTRACT=0x708A2F51e5cCA86dAeE2318A05E961F552d6E408
 ```
+
+Arc Mainnet contract: `0x708A2F51e5cCA86dAeE2318A05E961F552d6E408`
 
 After validation, deploy to Arc Mainnet:
 
@@ -123,12 +125,12 @@ Before signing, agents should enforce:
 
 ## Grant demo checklist
 
-- [ ] Contract deployed to Arc Mainnet
-- [ ] `NEXT_PUBLIC_AGENTPAY_CONTRACT` configured
-- [ ] Production website live
+- [x] Contract deployed to Arc Mainnet
+- [x] Production contract configured on the live Railway service
+- [x] Production website live
 - [ ] At least 3 real low-value USDC settlements
 - [ ] Public receipt URLs captured
-- [ ] Public GitHub repository
+- [x] Public GitHub repository
 - [ ] 30–60 second demo recording
 - [ ] Arc Microgrant submission
 
